@@ -1,0 +1,74 @@
+.topbarWrapper{
+    width: 100%;
+    height: 80px;
+    margin-top: -13px;
+    background-color: blue;
+    border-top: 5px;
+    
+}
+.logo{
+    color: white;
+    font-size:medium;
+    position: relative;
+    top: 24px;
+    left: 10px;
+    
+
+}
+.SEARCH{
+    justify-content: center;
+    position: relative;
+    left: 200px;
+    top:-13px;
+    border-radius:9px;
+    width: 40%;
+    height: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.SearchIcon{
+    position: relative;
+    top: -5px;
+    left:190px;
+}
+.Homepage{
+    position: relative;
+    top: -62px;
+    left: 970px;
+    color: white;
+    font-size: smaller;
+}
+.Timeline{
+    position: relative;
+    top: -101px;
+    left: 1190px;
+    color: white;
+    font-size: smaller;
+}
+.personicon{
+    position: relative;
+    top: -160px;
+    left: 1297px;
+    color: white;
+    font-size: smaller;
+}
+.ChatBubble{
+    position: relative;
+    top: -159px;
+    left: 1315px;
+    color: white;
+    
+}
+.Notifications{
+    position: relative;
+    top: -159px;
+    left: 1340px;
+    color:white;
+}
+.profile{
+    position: relative;
+    top: -149px;
+    left: 1385px;
+    border-radius:92px;
+    width: 2%;
+    height: 50%;
+}

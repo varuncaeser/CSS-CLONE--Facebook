@@ -1,0 +1,189 @@
+.top-box{
+    height: 150px;
+    width: 600px;
+    position:absolute;
+    top: 110px;
+    left: 230px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    margin: 10px;
+    box-shadow: 0 6px 9px rgba(0, 0, 0, 0.1);
+}
+.profile-1{
+    position: absolute;
+    top: 24px;
+    left: 15px;
+    border-radius:92px;
+    width: 8%;
+    height: 30%;
+}
+.h5-stmt{
+    position: absolute;
+    top: 1px;
+    left: 85px;
+    font-size: medium;
+    font-weight: 400;
+}
+.hr-line{
+    position: relative;
+    top: 80px;
+    width:540px;
+    height: 0.5px;
+}
+.Photo-icon{
+    position: relative;
+    top: 84px;
+    left:30px;
+    color: red;
+}
+.photovideo{
+    position: relative;
+    top: 19px;
+    left:63px;
+    font-size: medium;
+    font-weight: 400;
+
+}
+.tag{
+    position: relative;
+    top: -40px;
+    left:180px;
+    color:blue;
+
+}
+.tag-name{
+    position: relative;
+    top: -105px;
+    left:210px;
+    font-size: medium;
+    font-weight: 400;
+}
+.Location-icon{
+    position: relative;
+    top: -163px;
+    left:260px;
+    color:green;
+}
+.loc-name{
+    position: relative;
+    top: -228px;
+    left:290px;
+    font-size: medium;
+    font-weight: 400;
+}
+.Emotions{
+    position: relative;
+    top: -288px;
+    left:360px;
+    color:yellow;
+}
+.Emoji{
+    position: relative;
+    top: -353px;
+    left:389px;
+    font-size: medium;
+    font-weight: 400;
+}
+.button-share{
+    position: relative;
+    top: -412px;
+    left: 490px;
+    border-radius: 4px;
+    background-color: rgb(42, 175, 42);
+    font-weight: 200;
+    height: 30px;
+    width: 60px;
+
+
+}
+.center-box{
+    height: 650px;
+    width: 600px;
+    position:absolute;
+    top: 300px;
+    left: 230px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    margin: 10px;
+    box-shadow: 0 6px 9px rgba(0, 0, 0, 0.1);
+}
+.rohitfb{
+    position: absolute;
+    top: 124px;
+    left: 15px;
+    border-radius: 5px;
+    width: 577px;
+    height: 520px;
+    
+}
+.profile-rohit{
+    position: absolute;
+    top: 10px;
+    left: 15px;
+    border-radius:92px;
+    width: 8%;
+    height: 7%;
+}
+.h5-rohit{
+    position: absolute;
+    top: -6px;
+    left: 75px;
+    font-size: medium;
+    font-weight: 500;
+}
+.min{
+    position: absolute;
+    top: 3px;
+    left:200px;
+    font-size: x-small;
+    font-weight: 500;
+}
+.dot-icon{
+    position: absolute;
+    top: 20px;
+    left: 560px;
+}
+.Writen{
+    position: absolute;
+    top: 45px;
+    left: 18px;
+    font-size: small;
+    font-weight: 400;
+}
+.right-box{
+    height: 838px;
+    width: 647px;
+    position:absolute;
+    top: 110px;
+    left: 860px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    margin: 10px;
+    box-shadow: 0 6px 9px rgba(0, 0, 0, 0.1);
+}
+.mc_fries{
+    position: relative;
+    top: 110px;
+    left: 10px;
+    height: 650px;
+    width: 628px;
+    border-radius: 5px;
+}
+.gift_box{
+    position: absolute;
+    top:2px;
+    left: 10px;
+    height: 70px;
+    width: 70px;
+}
+.stmt1{
+    position: absolute;
+    top:-10px;
+    left:80px;
+    font-size: larger;
+    font-weight: 400;
+
+}
